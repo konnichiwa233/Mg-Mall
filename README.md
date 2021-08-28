@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+![1](C:\Users\Administrator\Desktop\蘑菇商城\projectImg\1.png)
+
